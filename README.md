@@ -77,13 +77,20 @@ it's ready to run 🎉
 or
 `python desktop.py`
 for run flaskBlog as a desktop app 💯
-## Installation guide on Azure cloud ⬇️
-
-Go to the openshift sandbox developer environment https://oauth-openshift.apps.sandbox-m4.g2pi.p1.openshiftapps.com/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.sandbox-m4.g2pi.p1.openshiftapps.com%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=13ca5c27
-
-click on developer
-create a Add
-click on import github URL use the link ` https://github.com/Jerryblessed/Softwarebank.git ` 💾
-create project 📁
+## Installation guide on Azure cloud web app creation ⬇️
+clone repository
+Go to the Azure
+Signup and Login 
+click on 'create a resource'
+click on 'create Web App'
+select code radio button for 'publish'
+Fill in instance name
+Select runtime stack as Python3.11
+create database as MySQL  💾
+configure github and select repo which contains the code
+Review and create project 📁
 wait for it to build then run the app using the created projects link 💯
+## Installation guide to create speech-to-text AI ⬇️
+click on Azure AI services
+select 'speech-services' and follow thorugh the step similar to installation guide for web app creation
 
