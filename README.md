@@ -79,18 +79,30 @@ or
 for run flaskBlog as a desktop app 💯
 ## Installation guide on Azure cloud web app creation ⬇️
 clone repository
+
 Go to the Azure
+
 Signup and Login 
+
 click on 'create a resource'
+
 click on 'create Web App'
-select code radio button for 'publish'
+
+Select code radio button for 'publish'
+
 Fill in instance name
+
 Select runtime stack as Python3.11
+
 create database as MySQL  💾
+
 configure github and select repo which contains the code
+
 Review and create project 📁
+
 wait for it to build then run the app using the created projects link 💯
 ## Installation guide to create speech-to-text AI ⬇️
 click on Azure AI services
+
 select 'speech-services' and follow thorugh the step similar to installation guide for web app creation
 
