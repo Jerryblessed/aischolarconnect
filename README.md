@@ -1,4 +1,4 @@
-# [Software bank📜](http://jerryblessed.pythonanywhere.com/)
+# [AI Scholar Connect 📜 ](http://jerryblessed.pythonanywhere.com/)
 
 Simple blog app built with Flask.
 <br/>
@@ -17,9 +17,10 @@ Simple blog app built with Flask.
 
 | Feature                | Status |
 | :--------------------- | :----: |
-| Redhat deployment      |   ✅    |
-| Intel tools            |   ✅    |
-| Google AI chat         |   ✅    |
+| Azure deployment       |   ✅    |
+| Azure data base feaute |   ✅    |
+| Azure AI               |   ✅    |
+| Google generative AI   |   ✅    |
 | User Page              |   ✅    |
 | User Login             |   ✅    |
 | User Points            |   ✅    |
@@ -63,7 +64,7 @@ Simple blog app built with Flask.
 ## Installation guide on Windows local machine ⬇️
 
 download source code from Github 💾
-`git clone https://github.com/Jerryblessed/Softwarebank.git`
+`git clone https://github.com/Jerryblessed/aischolarconnect.git`
 
 go to directory 📁
 `cd softwarebank`
@@ -76,7 +77,7 @@ it's ready to run 🎉
 or
 `python desktop.py`
 for run flaskBlog as a desktop app 💯
-## Installation guide on Redhat openshift cloud ⬇️
+## Installation guide on Azure cloud ⬇️
 
 Go to the openshift sandbox developer environment https://oauth-openshift.apps.sandbox-m4.g2pi.p1.openshiftapps.com/oauth/authorize?client_id=console&redirect_uri=https%3A%2F%2Fconsole-openshift-console.apps.sandbox-m4.g2pi.p1.openshiftapps.com%2Fauth%2Fcallback&response_type=code&scope=user%3Afull&state=13ca5c27
 
